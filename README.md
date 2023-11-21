@@ -13,6 +13,7 @@ risky–sometimes tip over the wagon carrying their supplies.
 
 
 ***********************Initial State and Reducer********************
+
 1.First, define the starting point of our game. The player 
 begins on day 0 at kilometer 0 with 100 units of supplies.
 
